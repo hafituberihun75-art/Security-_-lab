@@ -1,9 +1,5 @@
 {
-    "name": "BlackArch DevContainer",
+    "name": "BlackArch Lab",
     "build": { "dockerfile": "Dockerfile" },
-    "customizations": {
-        "vscode": {
-            "extensions": ["ms-azuretools.vscode-docker"]
-        }
-    }
+    "remoteUser": "student"
 }
