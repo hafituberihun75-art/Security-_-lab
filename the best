@@ -1,0 +1,9 @@
+{
+    "name": "BlackArch DevContainer",
+    "build": { "dockerfile": "Dockerfile" },
+    "customizations": {
+        "vscode": {
+            "extensions": ["ms-azuretools.vscode-docker"]
+        }
+    }
+}
